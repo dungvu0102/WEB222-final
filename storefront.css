@@ -43,6 +43,12 @@ footer{
     text-align: center;
 }
 
+#ref{
+    background-color: lightgrey;
+    font-size: 30px;
+    width: 960px;
+    margin:0 auto;
+}
 @media screen and (max-width: 1100px){
     #container{
         width: 100%;
